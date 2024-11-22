@@ -7,3 +7,4 @@
 1. [Начало работы с блокнотом Jupyter](01_start_jupyter/)
 2. [Подготовка данных для анализа](02_prepare_dataset/)
 3. [Задача визуализации данных](03_visualization/)
+4. [Самостоятельная работа по SQL](https://sql-test-2.website.yandexcloud.net)
